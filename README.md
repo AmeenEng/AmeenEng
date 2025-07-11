@@ -71,7 +71,7 @@ languages: Arabic (native), English (learning), Java, Python, PHP, JS
 ```yaml
 Phone: +967 777235077
 Email: ameenalalimi.dev@gmail.com
-Address: شارع صنعاء، تعز، اليمن
+Address: Yemen, Sna'a, Taiz street
 ```
 
 ---
